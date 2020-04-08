@@ -1,4 +1,4 @@
-package com.nio.imooc;
+package com.samuel.hybrid;
 
 import org.junit.Test;
 

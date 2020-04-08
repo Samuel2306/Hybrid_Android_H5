@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.nio.imooc"
+        applicationId "com.samuel.hybrid"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1

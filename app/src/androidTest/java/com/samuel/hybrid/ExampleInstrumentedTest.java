@@ -1,4 +1,4 @@
-package com.nio.imooc;
+package com.samuel.hybrid;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.nio.imooc", appContext.getPackageName());
+        assertEquals("com.samuel.hybrid", appContext.getPackageName());
     }
 }

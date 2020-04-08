@@ -1,4 +1,4 @@
-package com.nio.imooc;
+package com.samuel.hybrid;
 
 import android.webkit.JavascriptInterface;
 import android.widget.TextView;

@@ -1,4 +1,4 @@
-package com.nio.imooc;
+package com.samuel.hybrid;
 
 import android.graphics.Bitmap;
 import android.support.v7.app.AlertDialog;
